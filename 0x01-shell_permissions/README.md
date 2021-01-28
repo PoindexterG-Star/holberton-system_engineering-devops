@@ -1,0 +1,1 @@
+chmod change the files permission, chown change the file owner.
